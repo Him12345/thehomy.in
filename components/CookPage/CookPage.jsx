@@ -356,7 +356,7 @@ const CookPage = () => {
 									<span className="red">₹ 499</span>
 								</p>
 								
-								<p class="ccard-info red">{selectedOption1}</p>
+								<p className="ccard-info red">{selectedOption1}</p>
 							</div>
 						</div>
 						<div
